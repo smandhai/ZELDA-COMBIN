@@ -28,4 +28,4 @@ Refer to the attached SQL queries - scripts require login access to the database
 - Add settings file for initalising variables and storing EAGLE login
 - Add core zELDA functionality
 
-Note: I want to apologise for the delay in getting this repository filled. Following the completion of my PhD, I jumped straight into a new position and haven't had time to actively collate the required files. I am aiming to have a fully functional zELDA pipeline ready for you to use by the end of 2023.
+Note: I want to apologise for the delay in getting this repository filled. Following the completion of my PhD, I jumped straight into a new position and haven't had time to actively collate the required files. I am aiming to have a fully functional zELDA pipeline ready for you to use in the near future. In the meantime, if you are interested in using zELDA, please email: soheb_mandhai_ at _manchester.ac.uk
